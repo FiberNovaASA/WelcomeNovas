@@ -24,64 +24,6 @@
           }
         ]
       },
-      {
-        "layout": 2,
-        "buttontext": "2 Box layout",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Left title",
-            "text": "This text goes into the left box"
-          },
-          {
-            "title": "Right title",
-            "text": "This text goes into the right box"
-          }
-        ]
-      },
-      {
-        "layout": 3,
-        "buttontext": "3 Box layout",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Left title",
-            "text": "This text goes into the left box"
-          },
-          {
-            "title": "Top right title",
-            "text": "This text goes into the top right box"
-          },
-          {
-            "title": "Bottom right title",
-            "text": "This text goes into the bottom right box"
-          }
-        ]
-      },
-      {
-        "layout": 4,
-        "buttontext": "4 Box layout",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
-        "content": [
-          {
-            "title": "Top left title",
-            "text": "<TextStyle.Orange>This text goes into the top left box</>"
-          },
-          {
-            "title": "<TextStyle.Green>Top right title</>",
-            "text": "<TextStyle.Violet>This text goes into the top right box</>"
-          },
-          {
-            "title": "<TextStyle.Blue>Bottom left title</>",
-            "text": "<TextStyle.Red>This text goes into the bottom left box</>"
-          },
-          {
-            "title": "<TextStyle.Yellow>Bottom right title</>",
-            "text": "<TextStyle.White>This text goes into the bottom right box</>"
-          }
-        ]
-      }
-    ],
     "links": [
       {
         "text": "Link to discord",
