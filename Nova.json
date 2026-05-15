@@ -1,50 +1,61 @@
 {
-  "WBUI2": {
-    "settings": {
-      "openbutton": 1,
-      "hideicon": true,
-      "hideiconafter": 10,
-      "iconurl": "https://cdn.discordapp.com/attachments/1499204561456595035/1504299620287774842/NovaLOGO.png?ex=6a067bb2&is=6a052a32&hm=a93729b83aac1707a558aeeb0f7deacb1cd535869f8aa6d95f7c5c2e2071a91d&",
-      "disableicontext": false,
-      "iconposition": 3,
-      "icontextcolor": 1,
-      "openonstart": true,
-      "openonstartonlynewplayers": true,
-      "updateinterval": 24
-    },
-    "tabs": [
-      {
-        "layout": 1,
-        "buttontext": "<RichColor Color=\"1,0,0,1\">1 Box layout</>",
-        "imageurl": "https://cdn.discordapp.com/attachments/1499204561456595035/1504300641332367400/LogoServerNova.png?ex=6a067ca5&is=6a052b25&hm=d1da753cefa4b90bd69562d0ef4b407598d18109592373e622d127d18ae64e99&",
-        "content": [
-          {
-            "title": "Welcome to FiberNova",
-            ⚡ BEST FIBERCRAFT OUT ⚡
-            Fast PvP • Instant Action • Custom Drops\nBalanced PvP • Events • Active Admins
-            ✔ Starter Kits
-            ✔ Boosted Breeding
-            ✔ Fast Flyers
-            ✔ Custom Stack Sizes
-            ✔ No Pay To Win
-            SERVER LINKS Discord: discord.gg/qNPQYJCUd
-            RULES:
-            • No Meshing
-            • No Duping
-            • Respect Admin Decisions
-          }
-        ]
-      },
-    "links": [
-      {
-        "text": "Link to discord",
-        "url": "https://discord.gg/qNPQYJCUd"
-      },
-      {
-        "text": "Link to google",
-        "url": "https://google.com"
-      }
-    ],
-    "version": 2
-  }
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 1,
+			"hideicon": false,
+			"hideiconafter": 0,
+			"iconurl": "https://cdn.discordapp.com/attachments/1399542764760469690/1504317548466798734/smaller.png?ex=6a068c64&is=6a053ae4&hm=1f1d04875c1f8d71164a7c7d500b6de6148cc44b7c591e434f4110d4cfa862d4&",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 7,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 0
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "WELCOME TO NOVA CLUSTER",
+				"imageurl": "https://cdn.discordapp.com/attachments/1499204561456595035/1504300641332367400/LogoServerNova.png?ex=6a067ca5&is=6a052b25&hm=d1da753cefa4b90bd69562d0ef4b407598d18109592373e622d127d18ae64e99&",
+				"content": [
+					{
+						"title": "WELCOME TO FIBER NOVA ",
+						"text": "BEST FIBERCRAFT OUT \r\n\r\nFast PvP • Instant Action • Custom Drops\r\nBalanced PvP • Events • Active Admins\r\n\r\n✔ Starter Kits\r\n✔ Boosted Breeding\r\n✔ Fast Flyers\r\n✔ Custom Stack Sizes\r\n✔ Optional Pay to Win\r\n\r\n"
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "RULEBOOK",
+				"imageurl": "https://cdn.discordapp.com/attachments/1499204561456595035/1504300641332367400/LogoServerNova.png?ex=6a067ca5&is=6a052b25&hm=d1da753cefa4b90bd69562d0ef4b407598d18109592373e622d127d18ae64e99&",
+				"content": [
+					{
+						"title": "General Rules",
+						"text": "- Discord and in-game names must match\r\n- Racism, sexual remarks, and excessive toxicity are prohibited\r\n- Maximum of 5 soakers at one time\r\n- Respect admins, players, and the server community\r\n- Admins will not intervene in tribe insiding situations\r\n- Trade scamming is prohibited\r\n- Fake admin names or inappropriate nicknames are not allowed\r\n- Tribe names must remain consistent across all maps\r\n- Tribe hopping is not allowed\r\n- No teaming or alliances in PvP situations"
+					},
+					{
+						"title": "Raid Rules /  Banned Creatures & Items",
+						"text": "- Popcorning loot during raids is not allowed\r\n- Maximum cage time is 24 hours after a ticket is submitted\r\n- Meshing, hacking, or exploiting results in a permanent ban\r\n- Teaming or alliances in PvP are prohibited\r\n- Only one tribe may raid a target at a time\r\n- Counter raiding active raids is not allowed\r\n- FOBs must contain, at the very minimum, 50 Heavy Turrets, 50 Tek Turrets, and 1 Tek Forcefield\r\n- Mesh biting is prohibited\r\n- Raft raiding is not allowed\r\n- Unusual raid methods must be recorded for proof if requested by admins\r\n\r\n\r\n- Banned dinos: Dodorex, DodoWyvern, Candy Golems\r\n- Banned items: Reaper Stone, Wyvern Stone, Griffin Stone\r\n"
+					},
+					{
+						"title": "Structure Rules",
+						"text": "- Excessive structure spam may be removed by admins\r\n- Maximum of 20 cliff platforms inside caves and 20 outside\r\n- Maximum of 5 vaults per generator\r\n- Spamming gates, billboards, transmitters, or similar structures is not allowed\r\n- Floating structures and turrets are prohibited\r\n- Lag-causing builds are not allowed"
+					},
+					{
+						"title": "Base Rules",
+						"text": "- No excessive foundation spam outside of bases\r\n- Base entrances must be accessible without exploits or special methods\r\n- Building in mesh or under-map areas is prohibited\r\n- Maximum of 2 bases per map per tribe\r\n- Maximum of 3 cave bases total across all maps\r\n- No building near spawn points or obelisks\r\n- Tribe limit is 8 players"
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/qNPQYJCUd"
+			}
+		],
+		"version": 2
+	}
 }
